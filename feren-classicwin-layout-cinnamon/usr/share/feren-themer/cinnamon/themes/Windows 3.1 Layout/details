@@ -1,0 +1,19 @@
+[THEMER THEME]
+Name=Windows 3.1 Layout
+Applets=['panel1:left:0:grouped-window-list@cinnamon.org:2', 'panel1:right:0:network@cinnamon.org:11', 'panel1:right:1:power@cinnamon.org:12', 'panel1:right:2:sound@cinnamon.org:13', 'panel1:right:3:user@cinnamon.org:4']
+Extensions=['transparent-panels@germanfr']
+Conky=False
+GTKTheme=feren
+WMTheme=feren WinStyle
+WMFont=Lato Light 11
+ShellTheme=feren Transparent
+CursorTheme=DMZ-White
+Icons=Inspire
+LogoColour=Light
+WMLayout=menu:minimize,maximize
+Panels=['1:0:bottom']
+PanelSizes=['1:38', '2:38']
+PanelIconSizes='[{"panelId": 1, "left": 0, "center": 24, "right": 24}]'
+Dock=False
+FilesStyle=Basic
+AppLauncher=True

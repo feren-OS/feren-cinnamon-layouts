@@ -1,0 +1,17 @@
+[THEMER THEME]
+Name=feren Light
+Applets=
+Extensions=
+Conky=True
+GTKTheme=feren
+WMTheme=feren
+WMFont=Lato Light 11
+ShellTheme=feren-light
+CursorTheme=DMZ-White
+Icons=Inspire
+LogoColour=Dark
+WMLayout=
+Panels=
+PanelSizes=
+Dock=False
+FilesStyle=ferenOS
